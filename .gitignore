@@ -1,0 +1,6 @@
+gerenciador/_pycache_
+gerenciadorApp/_pycache_
+gerenciadorApp/migrations
+venv/
+db.sqlite3
+manage.py
